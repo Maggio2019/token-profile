@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {0x7a70aae32509fd8004f7f3d2ec24f35c396fc62c
+  }
+}gh pr checkout 7483
+0x7a70aae32509fd8004f7f3d2ec24f35c396fc62c
